@@ -10,11 +10,3 @@
 
 ### The results of simulations are in the screenshots.
 ### The scala file has the program.
-
-![Screenshot](1start-master)
-![Screenshot](2start-local-slaves)
-![Screenshot](3add-remote-slave)
-![Screenshot](4start-shell.png)
-![Screenshot](sim1.png)
-![Screenshot](sim2.png)
-![Screenshot](sim3.png)
